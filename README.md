@@ -12,7 +12,7 @@ This script is used to track the internal domains of an organization (in AWS Clo
 
 ## Prerequisite:
 - Python 3.x is required.
-- [go] (https://go.dev/doc/install)
+- [go](https://go.dev/doc/install)
 - [httpx](https://github.com/projectdiscovery/httpx). 
 - [anew](https://github.com/tomnomnom/anew)
 - [notify](https://github.com/projectdiscovery/notify)
